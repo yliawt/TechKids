@@ -37,7 +37,7 @@ In TechKids Forum, users can view all available forum topics and blog topics. Ho
 
 ## TechKids Home Page
 
-![HomePage ScreenShot](Screenshot/HomePage.png)
+![HomePage ScreenShot](Screenshot/Home.png)
 
 ## Sign Up and Log In
 ### Sign Up
